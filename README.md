@@ -1,2 +1,2 @@
 # 2020XXX	Sewon Hong
-# Kookmin Univ. SW
+# Kookmin Univ. Computer Science
